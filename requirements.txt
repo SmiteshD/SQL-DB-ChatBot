@@ -1,0 +1,16 @@
+langchain
+langchain_openai
+langchain_community
+python_dotenv
+langchain_core
+streamlit
+langchain_groq
+pypdf
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+arxiv
+wikipedia
+ipykernel
+mysql_connector_python
+SQLAlchemy
